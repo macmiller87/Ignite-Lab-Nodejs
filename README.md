@@ -37,6 +37,6 @@ Rotas da aplicação
 - Copie a url do repositório na aba `CODE`.
 - Com o git instalado, execute o seguinte comando => `git clone "Aqui vai a url copiada acima`.
 - Com o `Nodejs` e ou `Yarn` instalados, Na sua IDE preferida, abra o terminal do `git`, e execute o seguinte comando => `yarn ou npm i`, para baixar as dependências da aplicação.
-- Para rodar o projeto execute o seguinte comando => `yarn star:dev`.
+- Para rodar o projeto execute o seguinte comando => `yarn start:dev`.
 - Para rodar os testes unitários das rotas da aplicação execute o seguinte comando => `yarn test`.
 - Para visualizar a ferramenta de interface gráfica de gerenciamaneto de banco de dados do `Prisma`, para visualizar a tabela do BD, execute o seguinte comando `npx prisma studio`, e abra a `url` apresentada.
